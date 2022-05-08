@@ -4,6 +4,6 @@ A few months ago, the WHO designated a new variant of the coronavirus, B.1.1.529
 ## Omicron Sentiment Analysis using Python
 The dataset that I am using for the task of Omicron sentiment analysis is downloaded from Kaggle, which was initially collected from Twitter when people were sharing their opinions about the Omicron variant. The task of Omicron sentiment analysis by importing the necessary Python libraries and the dataset.
 
-
+### Note: Don't forgot to change the location of dataset.
 
 
